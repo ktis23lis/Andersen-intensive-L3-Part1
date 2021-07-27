@@ -9,6 +9,14 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.CountryFlags">
+        <activity android:name=".ShveitcActivity"></activity>
+        <activity android:name=".DanActivity" />
+        <activity android:name=".TaiActivity" />
+        <activity android:name=".MadagaActivity" />
+        <activity android:name=".ColumActivity" />
+        <activity android:name=".ItActivity" />
+        <activity android:name=".PolActivity" />
+        <activity android:name=".AvstActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

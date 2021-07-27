@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Country Flags</string>
+    <string name="btn_avst">Австрия</string>
+    <string name="btn_pol">Польша</string>
+    <string name="btn_it">Италия</string>
+    <string name="btn_colum">Колумбия</string>
+    <string name="btn_madaga">Мадагаскар</string>
+    <string name="btn_tai">Таиланд</string>
+    <string name="btn_dan">Дания</string>
+    <string name="btn_shveitc">Швейцария</string>
 </resources>
