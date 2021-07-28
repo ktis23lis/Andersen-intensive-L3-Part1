@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="frame_width">40dp</dimen>
+    <dimen name="margin_frame">100dp</dimen>
+    <dimen name="cl_shve">300dp</dimen>
+    <dimen name="shve_150">150dp</dimen>
+    <dimen name="shve_50">50dp</dimen>
+</resources>
